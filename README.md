@@ -15,3 +15,5 @@ Searches a MYSQL column for string matches and compares to a submitted string ba
 <p>You should be all setup, open index.php locally using something like XAMPP or on your web host.</p>
 
 <p>Search is based on similarity between the two strings, the slider let's you adjust how similar the match should be.</p>
+
+<p>The example uses Bootstrap and jQuery but the core search is vanilla PHP.</p>
