@@ -12,6 +12,6 @@ Searches a MYSQL column for string matches and compares to a submitted string ba
 
 <p>If you used your own table or column names edit includes/class.search.php on line 89 to match your table and column names. </p>
 
-<p>You should be all setup. open index.php locally using something like XAMPP or on your web host.</p>
+<p>You should be all setup, open index.php locally using something like XAMPP or on your web host.</p>
 
-<p>Search is based in similarity, the slider let's you adjust how similar the match should be.</p>
+<p>Search is based on similarity between the two strings, the slider let's you adjust how similar the match should be.</p>
